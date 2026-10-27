@@ -74,6 +74,8 @@ A creative crochet business website concept with a soft pastel aesthetic.
 
 ---
 
+✨ Always learning, building, and improving one project at a time!
+
 <div align="center">
 
 ### 🌷 Thanks for visiting my little corner of GitHub! 🌷
