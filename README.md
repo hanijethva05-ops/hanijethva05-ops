@@ -1,104 +1,85 @@
- <!-- HANI JETHVA | GITHUB PROFILE README -->  <div align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6d28d9,100:a855f7&height=220&section=header&text=HANI%20JETHVA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Data%20Analytics%20%7C%20Creative%20Tech&descAlignY=58&descSize=16" width="100%" />  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Hani+Jethva+%F0%9F%91%8B;Turning+ideas+into+real+projects;Exploring+Data+Analytics+%26+Development;Building+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />  <br/>  Instagram
-GitHub
+ 
+<div align="center">
 
-</div>  
----
+# 🌷 Hi there, I'm Hani! 🌷
 
-💜 About Me
+### ✨ Aspiring Developer | Creative Builder | Lifelong Learner ✨
 
-name: Hani Jethva  
-role: Aspiring Software Developer  
-interests:  
-  - Data Analytics  
-  - Python & SQL  
-  - AI-powered Applications  
-  - Creative Software Projects  
-currently: Learning, building, and improving 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=EADCF8&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=30&fontColor=6B568A" width="100%" alt="Pastel purple welcome banner"/>
 
-I enjoy turning ideas into practical projects — from analyzing business data to building interactive applications. I'm focused on learning new technologies, solving problems, and creating projects that look good and work well.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=B18BD9&center=true&vCenter=true&width=600&lines=Learning+something+new+every+day;Building+creative+projects;Turning+ideas+into+reality" alt="Animated typing introduction"/>
 
+</div>
 
 ---
 
-🛠️ Tech Stack
+## 🌸 About Me
 
-<div align="center">  Python
-SQL
-Excel
-JavaScript
-
-HTML5
-CSS3
-Streamlit
-Git
-GitHub
-
-</div>  
----
-
-🚀 Featured Projects
-
-<table>  
-<tr>  
-<td width="50%" valign="top">  📊 Kia Motors — Excel Dashboard
-
-An Excel-based sales dashboard designed to explore business performance and sales insights.
-
-Tech: Microsoft Excel
-
-View Project
-
-</td>  
-<td width="50%" valign="top">  🗄️ Kia Motors — SQL Analytics
-
-A SQL project focused on querying sales data and exploring business insights.
-
-Tech: SQL
-
-View Project
-
-</td>  
-</tr>  
-<tr>  
-<td width="50%" valign="top">  🤖 AI Resume Analyzer
-
-A Python and Streamlit application for exploring resume-analysis features.
-
-Tech: Python · Streamlit · AI
-
-View Project
-
-</td>  
-<td width="50%" valign="top">  🧟 Survivor Protocol
-
-A zombie-survival game project built with web technologies.
-
-Tech: HTML · CSS · JavaScript
-
-View Project
-
-</td>  
-</tr>  
-</table>  
----
-
-📈 GitHub Analytics
-
-<div align="center">  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hanijethva05-ops&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" />  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanijethva05-ops&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" alt="Top Languages" />  <br/>  <img src="https://streak-stats.demolab.com?user=hanijethva05-ops&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" width="70%" />  </div>  
----
-
-🎯 My Focus
-
-- 📚 Strengthening my programming and analytical skills
-- 💡 Building practical projects to learn by doing
-- 📊 Exploring data-driven problem solving
-- 🚀 Creating better, more polished applications
-
+- 🌱 I'm learning and improving my development skills.
+- 💻 I enjoy creating desktop software and creative projects.
+- 🎨 I love clean designs and pastel aesthetics.
+- 🚀 My goal is to build useful projects and keep growing.
+- 💜 I believe every small step counts!
 
 ---
 
-<div align="center">  💜 Thanks for visiting my profile!
+## 🛠️ Tools & Technologies
 
-Every project is another step forward.
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:0d1117&height=110&section=footer" width="100%" />  </div>  Ye mera hai pura na
+<img src="https://skillicons.dev/icons?i=html,css,js,cs,dotnet,python,git,github,vscode&theme=light" alt="Technology icons"/>
+
+</div>
+
+---
+
+## 🎀 My Projects
+
+### 🎬 CineBox
+A personal movie-library desktop app concept designed to organize a movie collection.
+
+### 🖐️ AI Hand Gesture Control System
+A project exploring hand gestures for computer control.
+
+### 🧶 Yarnpetals
+A creative crochet business website concept with a soft pastel aesthetic.
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+🌟 Celebrating progress, learning, and contributions!
+
+<a href="https://github.com/hanijethva05-ops">
+  <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-EADCF8?style=for-the-badge&logo=github&logoColor=6B568A" alt="Visit my GitHub profile"/>
+</a>
+
+</div>
+
+*Real GitHub achievement badges are earned through GitHub activity and appear on your profile when unlocked.*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hanijethva05-ops&show_icons=true&hide_border=true&title_color=9B7EBD&icon_color=B18BD9&text_color=777777&bg_color=FFF9FD" height="165" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanijethva05-ops&layout=compact&hide_border=true&title_color=9B7EBD&text_color=777777&bg_color=FFF9FD" height="165" alt="Most used languages"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌷 Thanks for visiting my little corner of GitHub! 🌷
+
+✨ *Keep learning. Keep creating. Keep growing.* ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=EADCF8&height=100&section=footer" width="100%" alt="Pastel purple footer banner"/>
+
+</div>
