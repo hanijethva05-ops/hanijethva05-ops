@@ -76,6 +76,13 @@ A creative crochet business website concept with a soft pastel aesthetic.
 
 ✨ Always learning, building, and improving one project at a time!
 
+## 🌟 My Development Goals
+
+- 💻 Build useful desktop applications.
+- 🎨 Improve my UI design skills.
+- 📚 Learn something new with every project.
+- 🚀 Keep creating and improving my GitHub projects.
+
 <div align="center">
 
 ### 🌷 Thanks for visiting my little corner of GitHub! 🌷
