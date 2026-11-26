@@ -15,6 +15,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push generated 3D graphs
         run: |
           git config --global user.name "github-actions[bot]"
