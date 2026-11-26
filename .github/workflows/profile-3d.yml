@@ -13,8 +13,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        with:
-          username: ${{ github.repository_owner }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit & Push generated 3D graphs
         run: |
           git config --global user.name "github-actions[bot]"
